@@ -1,5 +1,6 @@
 {
     "name": "Las aventuras de Pepe",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
